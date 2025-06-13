@@ -1,0 +1,28 @@
+{
+    "name": "WisePepe",
+    "symbol": "WP",
+    "decimals": 9,
+    "description": "A fun meme token on Solana!",
+    "image": "https://www.google.com/imgres?q=images&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F036%2F324%2F708%2Fsmall%2Fai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fimage&docid=eqP1G-YlcRwZgM&tbnid=crGgp78bfBsQFM&vet=12ahUKEwiUk4O49u6NAxUAWEEAHUbdCQoQM3oECFoQAA..i&w=300&h=200&hcb=2&ved=2ahUKEwiUk4O49u6NAxUAWEEAHUbdCQoQM3oECFoQAA",
+    "external_url": "https://www.ikysmultiprojectltd.com.ng",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.google.com/imgres?q=images&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F036%2F324%2F708%2Fsmall%2Fai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fimage&docid=eqP1G-YlcRwZgM&tbnid=crGgp78bfBsQFM&vet=12ahUKEwiUk4O49u6NAxUAWEEAHUbdCQoQM3oECFoQAA..i&w=300&h=200&hcb=2&ved=2ahUKEwiUk4O49u6NAxUAWEEAHUbdCQoQM3oECFoQAA",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "HetnuaUUbBjFCx5wFYoiQuTRmDFKbEwqj1z4MsEJ1jYf",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
+
+  
